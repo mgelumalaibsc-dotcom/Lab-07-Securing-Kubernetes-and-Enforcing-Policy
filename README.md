@@ -74,7 +74,10 @@ graph TD
 ## Screenshots
 
 ### 1. Checkov Manifest Failure
-*(Student: Insert your terminal screenshot here showing Checkov flagging the over-privileged pod configuration)*
+<img width="1495" height="960" alt="image" src="https://github.com/user-attachments/assets/1ffb9d86-264f-4787-8fea-42dddc58f6a8" />
+<img width="1435" height="616" alt="image" src="https://github.com/user-attachments/assets/d4cf5354-31bd-40ed-9100-d40102351077" />
+<img width="1493" height="607" alt="image" src="https://github.com/user-attachments/assets/96ac853e-d97d-4a2f-a2d9-1caf6485aecb" />
+
 
 ### 2. Kubernetes RBAC Enforcement
 *(Student: Insert your terminal screenshot here showing the cluster creation and the blocked `delete pods` action)*
