@@ -80,9 +80,11 @@ graph TD
 
 
 ### 2. Kubernetes RBAC Enforcement
-*(Student: Insert your terminal screenshot here showing the cluster creation and the blocked `delete pods` action)*
+<img width="1885" height="736" alt="image" src="https://github.com/user-attachments/assets/ecb155de-f0fd-4e9c-a8f3-359fdb948659" />
+<img width="1884" height="404" alt="image" src="https://github.com/user-attachments/assets/72724a2e-2f49-4dca-8c75-d9b4d4dd2363" />
 
----
+
+
 
 ## Result
 * Successfully shifted cluster security left by integrating static manifest scanning via Checkov prior to deployment.
